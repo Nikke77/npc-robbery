@@ -5,7 +5,7 @@ FiveM npc robbery lua script.
 ox_lib, ox_target, ox_inventory
 
 # Preview
-https://streamable.com/fzdatp
+https://streamable.com/f0d1b1
 
 # Discord
 https://discord.gg/AYZepnneJE
